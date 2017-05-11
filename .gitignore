@@ -1,0 +1,18 @@
+# Mac
+.DS_Store
+
+# IDEA
+.idea/
+*.iml
+rebel.xml
+
+# eclipse
+.project
+.settings
+*.classpath
+
+# Java
+*.class
+
+# maven
+target/
